@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ablerig.github.io/sitemap.html.gz
+Sitemap: https://ablerig.github.io/app/sitemap.html.gz
+Sitemap: https://ablerig.github.io/assets/sitemap.html.gz
+Sitemap: https://ablerig.github.io/css/sitemap.html.gz
+Sitemap: https://ablerig.github.io/data/sitemap.html.gz
+Sitemap: https://ablerig.github.io/includes/sitemap.html.gz
+Sitemap: https://ablerig.github.io/item/sitemap.html.gz
+Sitemap: https://ablerig.github.io/src/sitemap.html.gz
